@@ -1,0 +1,27 @@
+{
+  "name": "EkşiKapan",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Ekşi Sözlükte barınan Aktrolleri İşaretleme Aparatı",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+   "icons": {
+     "16": "image.png",
+     "32": "image.png",
+     "48": "image.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://eksisozluk2023.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["filters.json","image.png"],
+      "matches": ["https://eksisozluk2023.com/*"]
+    }
+  ]
+}
