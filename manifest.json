@@ -21,7 +21,7 @@
   "web_accessible_resources": [
     {
       "resources": ["filters.json","image.png"],
-      "matches": ["https://eksisozluk2023.com/*"]
+      "matches": ["https://eksisozluk2023.com/*","https://eksisozluk.com/*"]
     }
   ]
 }
