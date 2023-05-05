@@ -16,4 +16,5 @@ Not : filters.json dosyasını güncelleyerek kendi tespit ettiğiniz yeni aktro
 
 
 İyi günlerde kullanmanız dileğiyle.
-https://github.com/blueffect/EksiKapan/blob/main/unnamed.png?raw=true
+
+Ekran Görüntüsü : https://github.com/blueffect/EksiKapan/blob/main/unnamed.png?raw=true
