@@ -19,4 +19,4 @@ Not : filters.json dosyasını güncelleyerek kendi tespit ettiğiniz yeni aktro
 
 Ekran Görüntüsü : https://github.com/blueffect/EksiKapan/blob/main/unnamed.png?raw=true
 
-![alt text]([http://url/to/img.png](https://github.com/blueffect/EksiKapan/blob/main/unnamed.png?raw=true))
+[![alt text]([http://url/to/img.png](https://github.com/blueffect/EksiKapan/blob/main/unnamed.png?raw=true))](https://github.com/blueffect/EksiKapan/blob/main/unnamed.png)
