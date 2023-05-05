@@ -13,7 +13,7 @@ Eklentiyi yüklemek için :
 
 
 Not : filters.json dosyasını güncelleyerek kendi tespit ettiğiniz yeni aktrolleri listeye ekleyebilirsiniz.
-
+Not 2 : Dilerseniz image.png dosyasını değiştirerek bok görseli yerine farklı bir görsel de kullanabilirsiniz.
 
 İyi günlerde kullanmanız dileğiyle.
 
