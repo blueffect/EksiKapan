@@ -1,7 +1,7 @@
 # EksiKapan
 Ekşi Sözlükte barınan Aktrolleri İşaretleme Aparatı
 
-Bu Chrome Eklentisi sayesinde Ekşi Sözlükte yaşayan aktrollerin entrylerini tek bakışta anlayabilirsiniz, proje içerisindeki filters.json dosyasında bulunan tanımlı aktrolleri algılar ve sözlükte dolaşırken bu yazarların entrylerine denk gelirseniz entry altında yazarın hemen soluna bok simgesi ekler, böylece tek bakışta entry'i yazan aktroll mü değilş mi anlarsınız.
+Bu Chrome Eklentisi sayesinde Ekşi Sözlükte yaşayan aktrollerin entrylerini tek bakışta anlayabilirsiniz, proje içerisindeki filters.json dosyasında bulunan tanımlı aktrolleri algılar ve sözlükte dolaşırken bu yazarların entrylerine denk gelirseniz entry altında yazarın hemen soluna bok simgesi ekler, böylece tek bakışta entry'i yazan aktroll mü değil mi? anlarsınız.
 
 Eklentiyi yüklemek için : 
 1. Chrome tarayıcısının sağ üst köşesindeki 3 noktayı tıklayın.
